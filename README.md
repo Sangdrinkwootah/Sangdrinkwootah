@@ -11,6 +11,6 @@
 - 📲 HAR_Mobile_app: Human Activity Recognition on mobile using MAUI + ONNX
 - 🔍 A-scan Spoofing Detection for PAUT systems
 
-Let's connect!
-🔗 [LinkedIn: Sang Nguyen Huu](https://www.linkedin.com/in/sang-nguyen-huu-ab5237196/)
-📧 Email: sangdrinkwootah@gmail.com
+Let's connect! 
+🔗 [LinkedIn: Sang Nguyen Huu](https://www.linkedin.com/in/sang-nguyen-huu-ab5237196/) 
+📧 Email: sangdrinkwootah@gmail.com 
