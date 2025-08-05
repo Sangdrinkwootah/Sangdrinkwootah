@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋 I'm Sang Nguyen
 
-<!--
-**Sangdrinkwootah/Sangdrinkwootah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student at Pukyong National University  
+🤖 Researching AI models for Smart Gym and EMG-based muscle analysis  
+📱 Developing mobile apps using .NET MAUI  
+🔬 Focused on muscle fatigue detection, activity recognition, and anomaly detection in PAUT systems  
+🌱 Currently exploring lightweight AI for embedded systems  
 
-Here are some ideas to get you started:
+🚀 Featured Projects:
+- 🧠 BalGym: EMG-based Muscle Balance Detection
+- 📲 HAR_Mobile_app: Human Activity Recognition on mobile using MAUI + ONNX
+- 🔍 A-scan Spoofing Detection for PAUT systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect!
