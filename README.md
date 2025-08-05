@@ -12,3 +12,5 @@
 - 🔍 A-scan Spoofing Detection for PAUT systems
 
 Let's connect!
+🔗 [LinkedIn: Sang Nguyen Huu](https://www.linkedin.com/in/sang-nguyen-huu-ab5237196/)
+📧 Email: sangdrinkwootah@gmail.com
